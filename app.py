@@ -1,1 +1,1 @@
-print ("Hello github -webhook-latest test")
+print ("Hello github test")
